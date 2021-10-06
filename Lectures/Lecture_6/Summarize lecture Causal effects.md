@@ -1,0 +1,8 @@
+Summarize lecture: Causal Diagrams and the Identification of 
+Causal Effects  
+
+Causal effects permit us to predict the behavior of the systems and how its responds to hypothetical interventions, we can use causal diagrams to give formal semantics to an intervention, besides we can calculate the probabilities of the intervention. This chapter uses causal diagrams to explain the notion of intervention, it proves the formulas for probabilities of preintervention probabilities. 
+
+The idea is that the effects of all the interventions can be estimated from the data, we have to add a causal diagram to improve the work and contains no latent variables. If we have somre variables that can not be measured so the question od identifiability arises, we have to see that causal diagrams provide useful information and a powerful mathematical tool in the analysis, it can be queried using simple test in the work. We have and experiment when we work with soil fumigants (X) are used to increase the soil yields, in this case we can determina the eelworm universe, before and after the treatment, besides we know that the fumigants are known to be active for a short period only, and it won´t affect the growth of eelworms in the future. 
+
+The purpose is not to accept or decline a group of assumptions, the purpose is to test a given set of assumptions if this group can be sufficient for quantifying causal effects from the nonexperimental data given in the situation, so in this case, we estimate the total effect of fumigants on yields. Then, the causal diagrams can be used not only as a complement language to inform about the assumptions, we can use it as a computational device to improve the work. 
